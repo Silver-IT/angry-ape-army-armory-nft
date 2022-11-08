@@ -1,0 +1,1 @@
+This should contain an ERC1155 based contract that will mint based on a burn mechanism of AAA Evolution tokens & validate the mint request by having the API sign it.
